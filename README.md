@@ -12,7 +12,7 @@ A Demo for Gulp 4
 - gulp-rename
 - gulp-uglify
 - open
-
 <div>
 <img src='snap/snap.png' height="500" width="500">
 </div>
+
