@@ -12,6 +12,11 @@ A Demo for Gulp 4
 - gulp-rename
 - gulp-uglify
 - open
+
+commands:
+```shell
+npx gulp
+```
 <div>
 <img src='snap/snap.png' height="500" width="500">
 </div>
